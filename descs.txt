@@ -1,13 +1,1 @@
-How we will balance the totalSupply as we have burning and minting both.. 
-	Should we keep proportional minting based on how much buds are burned.. 
-	So is it going to be like undetermined supply of tokens..??
-		-- Mintable
-		-- burnable
-		-- proportional minting
 
-What about NFTs --
-	- Supply
-	- minting logic - capped - 999 each chain - 20% narcs 80% farmers
-	- burning logic - Farmers not burnable, Narcs not burnable, other two burnable
-    - Token ids - to avoid collision across chains we will not be sequqntial
-        - uint256 tokenId = Keccak256(abi.encode(chainName+sequenceNumber))
