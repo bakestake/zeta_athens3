@@ -4,8 +4,12 @@ coverage
 coverage.json
 typechain
 typechain-types
-
+test
 # Hardhat files
 cache
 artifacts
+README.md 
+hardhat.config.js
+S:\KetchupStudio\zetaTest2\addresses.txt
+S:\KetchupStudio\zetaTest2\descs.txt
 
