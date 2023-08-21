@@ -1,10 +1,1 @@
-BUDS addresses - 
-https://goerli.etherscan.io/token/0x7aabae15a0ea088eb3affc3fbc5fdd5b074efe2e
-https://mumbai.polygonscan.com/address/0x7064530d5919eb70d5a565cd09871da461607d67
-https://testnet.bscscan.com/address/0x323a4d436F1864a7862cc364c53105759e2bd606#code
-
-Farmer addresses - 
-https://goerli.etherscan.io/address/0x234A43F634237051a6401aA4Fe0f18334eD3D581#code
-https://mumbai.polygonscan.com/address/0x494Eb494bF3edDB03DCDAA3a3b2514E24236e7AE#code
-https://testnet.bscscan.com/address/0x06ce27AA28Ff83583dcF085DeC97E6ACE26E2B08#code
 
